@@ -1,3 +1,3 @@
 Hiiii 
 
-This is my first git clashus
+This is my first git class
